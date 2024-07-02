@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  background-color: #f1f5f8;
+  padding: 25px;
+}
+span {
+  color: #c20a72;
+}
+button {
+  color: #ffffff;
+  background-color: #007bff;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  width: 100px;
+  border-radius: 8px;
+}
